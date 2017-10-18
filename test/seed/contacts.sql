@@ -3,5 +3,8 @@ INSERT INTO
 VALUES
   ('Jared', 'Grippe'),
   ('Tanner', 'Welsh'),
-  ('NeEddra', 'James')
+  ('NeEddra', 'James'),
+  ('LaToya', 'Williams'),
+  ('Dani', 'Gellis'),
+  ('Alex', 'Waite')
 ;
